@@ -1,0 +1,33 @@
+
+Q
+java:S1066]"/Merge this if statement with the enclosing one.(›œéÉÿÿÿÿÿ8ëÖó¾¡/
+b	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(¬ÕÈë8íÖó¾¡/
+k
+java:S3824:"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(˜¨Å8’ý¨È¡/
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8“ý¨È¡/
+[
+java:S1155?">Use isEmpty() to check whether the collection is empty or not.(ÛŠÜ8“ý¨È¡/
+`
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8”ý¨È¡/
+`
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8”ý¨È¡/
+`
+java:S1155x">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8”ý¨È¡/
+a
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8”ý¨È¡/
+a
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8•ý¨È¡/
+a
+java:S1155œ">Use isEmpty() to check whether the collection is empty or not.(›œéÉÿÿÿÿÿ8•ý¨È¡/
+Y
+java:S2589]"7Remove this expression which always evaluates to "true"(›œéÉÿÿÿÿÿ8ðÖó¾¡/
+<
+java:S1872A"Use "isAssignableFrom" instead.(€„À±8±ý¨È¡/
+X	java:S125T"<This block of commented-out lines of code should be removed.(ðÉû8§•¿¡/
+T
+java:S1135S"2Complete the task associated to this TODO comment.(¿ï¤ÿÿÿÿÿ8¦€”¿¡/
+o
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(°¸Ú¿8ÿÖó¾¡/
+b
+java:S2147h"ECombine this catch with the one at line 102, which has the same body.(Å¡ß8€×ó¾¡/

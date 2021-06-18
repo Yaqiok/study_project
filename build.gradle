@@ -1,0 +1,41 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { name 'Sonatype SNAPSHOTs';
+            url 'https://oss.sonatype.org/content/repositories/snapshots/' }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:4.2.1"
+        classpath 'com.jakewharton:butterknife-gradle-plugin:10.2.3'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://jitpack.io' }
+        maven { url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases" }
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+    }
+}
+
+ext{
+    compileSdkVersion = 29
+    buildToolsVersion = "30.0.3"
+    minSdkVersion = 26
+    targetSdkVersion = 30
+    versionCode = 1
+    versionName = "1.0"
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

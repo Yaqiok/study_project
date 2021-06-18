@@ -1,0 +1,8 @@
+rootProject.name = "study_project"
+include ':app'
+include ':m_android_advanced'
+include ':m_base'
+include ':m_multi_application'
+include ':m_network'
+//include ':m_javase'
+//include ':m_pboxservice'

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tech.luochan.study.view.DownInterceptGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    android:orientation="vertical">
+
+    <tech.luochan.study.view.CaptureTouchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/green5"
+        android:visibility="gone">
+
+    </tech.luochan.study.view.CaptureTouchView>
+
+
+    <tech.luochan.study.view.PieImageView
+        android:id="@+id/v_pie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ccffbb" />
+
+
+</tech.luochan.study.view.DownInterceptGroup>
