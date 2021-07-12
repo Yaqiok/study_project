@@ -13,8 +13,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/m_android_advanced" />
             <option value="$PROJECT_DIR$/m_base" />
+            <option value="$PROJECT_DIR$/m_gradle_plugin" />
+            <option value="$PROJECT_DIR$/m_image" />
+            <option value="$PROJECT_DIR$/m_jniservice" />
             <option value="$PROJECT_DIR$/m_multi_application" />
             <option value="$PROJECT_DIR$/m_network" />
+            <option value="$PROJECT_DIR$/m_okbluetooth" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,58 @@
+
+`
+java:S1192€"IDefine a constant instead of duplicating this literal "Stub!!!" 15 times.(äë×
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+`
+java:S1124m"EReorder the modifiers to comply with the Java Language Specification.(¬ƒÙ±ÿÿÿÿÿ
+—
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›˜ê…
+B
+java:S1174‡"&Make this finalize() method protected.(­§óùÿÿÿÿ
+I
+java:S1113‡"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+D
+java:S1172¡"-Remove this unused method parameter "device".(å•­Â
+I
+java:S1172¿"-Remove this unused method parameter "device".(ü®ê‚ıÿÿÿÿ
+<
+java:S1172ç"&Remove these unused method parameters.(ØàğW
+I
+java:S1172ø"-Remove this unused method parameter "device".(¶·şıÿÿÿÿ
+G
+java:S1172“"0Remove this unused method parameter "direction".(ø¦Š´
+I
+java:S1172"-Remove this unused method parameter "volume".(àñ¿øÿÿÿÿ
+I
+java:S1172¨"-Remove this unused method parameter "device".(’³ıÿÿÿÿ
+]
+java:S1126ã"AReplace this if-then-else statement by a single return statement.(À’Œşÿÿÿÿ
+X
+java:S1126ê"AReplace this if-then-else statement by a single return statement.(œß™Ö
+B
+java:S1068+"'Remove this unused "DBG" private field.(¸­³¼øÿÿÿÿ
+>
+java:S1068,"(Remove this unused "VDBG" private field.(Î‰ñ½
+G
+java:S1068i",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ
+O
+java:S1068j"4Remove this unused "mServiceListener" private field.(ó±œÍøÿÿÿÿ
+\
+java:S1068m"ARemove this unused "mBluetoothStateChangeCallback" private field.(¬ƒÙ±ÿÿÿÿÿ
+K
+java:S1068Ù"/Remove this unused "mConnection" private field.(º§Ñéúÿÿÿÿ
+?
+java:S1144î"(Remove this unused private "log" method.(İ†ê

@@ -1,0 +1,31 @@
+ext{
+/*
+    version = [
+            "compileSdkVersion" : 29 ,
+            "buildToolsVersion" : "30.0.3",
+            "minSdkVersion" : 26,
+            "targetSdkVersion" : 30,
+            "versionCode" : 1,
+            "versionName" : "1.0",
+    ]*/
+
+    dependencies = [
+
+            "timber"                : "com.jakewharton.timber:timber:4.7.1",
+
+            "butterknife"           : "com.jakewharton:butterknife:10.2.3",
+            "butterknife-compiler"  : "com.jakewharton:butterknife-compiler:10.2.3",
+
+            "utilcodex"             : "com.blankj:utilcodex:1.30.6",
+
+            //OkHttp
+            "okhttp"                : "com.squareup.okhttp3:okhttp:4.2.2",
+            "okio"                  : "com.squareup.okio:okio:2.2.2",
+            "okhttp-logging"        : "com.squareup.okhttp3:logging-interceptor:3.10.0",
+
+            //retrofit2
+            "retrofit"              : "com.squareup.retrofit2:retrofit:2.3.0",
+            "retrofit-gson"         : "com.squareup.retrofit2:converter-gson:2.3.0",
+
+    ]
+}

@@ -1,0 +1,24 @@
+
+D
+java:S1128	"/Remove this unused import 'java.sql.Timestamp'.(èò½+
+N
+java:S1128"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ
+D
+java:S1128
+".Remove this unused import 'java.util.Objects'.(¼¸õ›
+Q	java:S125#"<This block of commented-out lines of code should be removed.(¯ÍŒÆ
+v
+java:S3923/"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ŒýÒèýÿÿÿÿ
+C	java:S108/")Either remove or fill this block of code.(ŒýÒèýÿÿÿÿ
+>	java:S1081")Either remove or fill this block of code.(å¥ž‡
+h
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(óºŒÐ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(í¸õˆ
+U
+java:S1854Z"?Remove this useless assignment to local variable "forceUpdate".(Ï¨û¶
+F
+java:S1481Z"0Remove this unused "forceUpdate" local variable.(Ï¨û¶
+L
+java:S1068"1Remove this unused "mAcceptRanges" private field.(äáéèúÿÿÿÿ
+G
+java:S1144>"1Remove this unused private "checkVersion" method.(óºŒÐ

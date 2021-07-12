@@ -1,0 +1,7 @@
+
+W
+java:S1126!"AReplace this if-then-else statement by a single return statement.(•öÎ´
+Ì
+java:S11305"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(Þ¬è¤øÿÿÿÿ
+Ó
+java:S11306"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(¹öàÇúÿÿÿÿ

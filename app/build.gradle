@@ -1,7 +1,10 @@
-plugins {
-    id 'com.android.application'
-}
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
 
+//plugins {
+//    id 'com.android.application'
+//    id 'com.jakewharton.butterknife'
+//}
 android {
     compileSdkVersion rootProject.compileSdkVersion
     buildToolsVersion rootProject.buildToolsVersion
@@ -15,10 +18,28 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        release {
+            keyAlias = 'platform'
+            storeFile file('..\\debug.keystore')
+            storePassword 'android'
+            keyPassword 'android'
+        }
+    }
+
+
     buildTypes {
         release {
+            zipAlignEnabled true
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            applicationVariants.all {variant ->
+                variant.outputs.all {
+                    outputFileName = 'TestIn.apk'
+                }
+            }
         }
     }
     compileOptions {
@@ -36,9 +57,11 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+    annotationProcessor rootProject.ext.dependencies["butterknife-compiler"]
 
 //    implementation project(path: ':m_base')
     api project(':m_base')
+    api project(':m_network')
+    api project(':m_okbluetooth')
     implementation project(path: ':m_android_advanced')
 }

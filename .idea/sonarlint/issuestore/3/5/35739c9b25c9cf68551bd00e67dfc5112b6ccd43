@@ -1,0 +1,44 @@
+
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(öô¸¥ûÿÿÿÿ
+€
+java:S1488^"eImmediately return this expression instead of assigning it to the temporary variable "sppConnection".(ñ²ÆÙüÿÿÿÿ
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ú£ªûÿÿÿÿ
+t
+java:S30122"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨Şï¼ùÿÿÿÿ
+U
+java:S1161i":Add the "@Override" annotation above this method signature(ö‰¼şÿÿÿÿ
+Ì
+java:S1130i"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(ö‰¼şÿÿÿÿ
+Ó
+java:S1130i"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(ö‰¼şÿÿÿÿ
+Í
+java:S1130ˆ"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(à“õğùÿÿÿÿ
+Í
+java:S1130±"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(Ñ·©şÿÿÿÿ
+Ô
+java:S1130±"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(Ñ·©şÿÿÿÿ
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(±ûŞâøÿÿÿÿ
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(öô¸¥ûÿÿÿÿ
+[
+java:S2147é"ECombine this catch with the one at line 231, which has the same body.(ëèÛ
+u
+java:S2142ˆ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+a
+java:S2147Š"ECombine this catch with the one at line 264, which has the same body.(åşŒóùÿÿÿÿ
+`
+java:S4201‚"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ñı¤›
+C
+java:S1125¨"'Remove the unnecessary boolean literal.(†ı°ôøÿÿÿÿ
+†
+java:S1845Å"jRename field "exception" to prevent any misunderstanding/clash with field "EXCEPTION" defined on line 321.(²Ô‚›úÿÿÿÿ
+_	java:S119¾"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‚Ûü
+d	java:S119Ç"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(–ÛÔ×ùÿÿÿÿ
+_	java:S119Ë"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(÷É†³
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(èåî”
+\
+java:S1144)"ARemove this unused private "BluetoothConnectionImpl" constructor.(³­Š©øÿÿÿÿ

@@ -1,0 +1,28 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(λ²ªθώÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‡†¥ÿÿÿÿÿ
+Μ
+java:S1130"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(Δ¶®ϋÿÿÿÿ
+Σ
+java:S1130"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(Δ¶®ϋÿÿÿÿ
+Μ
+java:S1130"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(μ«―δωÿÿÿÿ
+Σ
+java:S1130"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(μ«―δωÿÿÿÿ
+
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ¦τΓϋÿÿÿÿ
+–
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ό
+—
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(΅ΐΨ”
+Μ
+java:S1130&"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(ϋªΌφϋÿÿÿÿ
+Σ
+java:S1130'"·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(ΉφΰΗϊÿÿÿÿ
+Η
+java:S1130-"°Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(νΧάπ
+Σ
+java:S1130."·Remove the declaration of thrown exception 'com.devyok.bluetooth.connection.BluetoothConnectionTimeoutException' which is a subclass of 'com.devyok.bluetooth.base.BluetoothException'.(ΉφΰΗϊÿÿÿÿ
+
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ζΤ«χώÿÿÿÿ

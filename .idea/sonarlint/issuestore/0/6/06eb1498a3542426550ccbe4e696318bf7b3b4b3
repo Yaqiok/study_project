@@ -1,0 +1,32 @@
+
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S1604="(Make this anonymous inner class a lambda(ÉãÃ®
+J
+java:S1128"4Remove this unused import 'okhttp3.Request.Builder'.(¢ø“È
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú¥È¢
+œ
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÂµ°øÿÿÿÿ
+V
+java:S4830"@Enable server certificate validation on this SSL/TLS connection.(Ú¥È¢
+[
+java:S4830!"@Enable server certificate validation on this SSL/TLS connection.(ÉÂµ°øÿÿÿÿ
+B
+java:S4423*",Change this code to use a stronger protocol.(ÿ¶¶Ó
+a
+java:S55274"?Enable server hostname verification on this SSL/TLS connection.(¡ÎÁªûÿÿÿÿ8ôÛûå£/
+œ
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ýÿÿÿÿ
+P
+java:S1854`":Remove this useless assignment to local variable "result".(¹£½¡
+S
+java:S1854_"8Remove this useless assignment to local variable "code".(ˆÀ¨Îüÿÿÿÿ
+V	java:S125g"<This block of commented-out lines of code should be removed.(§¡¾“ûÿÿÿÿ
+œ
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ýÿÿÿÿ
+>	java:S108~")Either remove or fill this block of code.(çç§à
+D
+java:S1481_")Remove this unused "code" local variable.(ˆÀ¨Îüÿÿÿÿ
+A
+java:S1481`"+Remove this unused "result" local variable.(¹£½¡

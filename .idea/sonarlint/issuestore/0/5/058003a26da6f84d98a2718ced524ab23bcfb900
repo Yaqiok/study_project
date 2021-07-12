@@ -1,0 +1,26 @@
+
+Š
+java:S1192"oDefine a constant instead of duplicating this literal "[devybt connect] onServiceConnected profile = " 3 times.(‚¾Ãíøÿÿÿÿ
+Z
+java:S1155ü">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+o
+java:S1128"TRemove this unused import 'com.devyok.bluetooth.hfp.BluetoothHeadsetProfileService'.(±ÇÛòıÿÿÿÿ
+T
+java:S5993H"9Change the visibility of this constructor to "protected".(ğÕÖ–úÿÿÿÿ
+T
+java:S5993["9Change the visibility of this constructor to "protected".(Œë¦×øÿÿÿÿ
+c	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Èö§
+i
+java:S3252¥"RUse static access with "android.bluetooth.BluetoothProfile" for "STATE_CONNECTED".(…ÛÜ
+q
+java:S3252§"UUse static access with "android.bluetooth.BluetoothProfile" for "STATE_DISCONNECTED".(²›‹éûÿÿÿÿ
+N
+java:S1135Ê"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135Ñ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(°êåãùÿÿÿÿ
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(°êåãùÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡°¯ˆùÿÿÿÿ

@@ -38,9 +38,12 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
+    api rootProject.ext.dependencies["timber"]
 
-    api 'com.jakewharton.timber:timber:4.7.1'
+    api rootProject.ext.dependencies["butterknife"]
+//    api rootProject.ext.dependencies["butterknife-compiler"]
+    annotationProcessor rootProject.ext.dependencies["butterknife-compiler"]
 
-    api 'com.jakewharton:butterknife:10.2.3'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+    //android util code
+    api rootProject.ext.dependencies["utilcodex"]
 }

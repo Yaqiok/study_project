@@ -1,0 +1,17 @@
+
+›
+java:S1192œ"Define a constant instead of duplicating this literal "[devybt connect] getConnectedBluetoothDevice BluetoothProfile(" 3 times.(ïŸ®şÿÿÿÿ
+K
+java:S1066Æ"/Merge this if statement with the enclosing one.(›ÄµŞşÿÿÿÿ
+P
+java:S1141;"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+y
+java:S1488u"^Immediately return this expression instead of assigning it to the temporary variable "result".(¬Ôİÿùÿÿÿÿ
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í¬)
+i
+java:S3008"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğì‚áûÿÿÿÿ
+i
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(´”É
+
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àšìªùÿÿÿÿ

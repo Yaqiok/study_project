@@ -28,11 +28,39 @@ android {
     }
 }
 
-dependencies {
+task clearJar(type: Delete) {
+    delete 'build/TestJar_V1.0.jar' //jar包的名字，随便命名
+}
 
+task makeJar(type:org.gradle.api.tasks.bundling.Jar) {
+    //指定生成的jar名
+    baseName 'TestJar_V1.0'
+    //从哪里打包class文件
+    from('build/intermediates/bundles/default/')
+    //打包到jar后的目录结构
+    into('build/')
+    //去掉不需要打包的目录和文件
+    exclude('test/', 'BuildConfig.class', 'R.class')
+    //去掉R开头的文件
+    exclude{it.name.startsWith('R');}
+}
+makeJar.dependsOn(clearJar, build)
+
+dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //OkHttp
+    api rootProject.ext.dependencies["okhttp"]
+    api rootProject.ext.dependencies["okio"]
+
+    //retrofit2
+    api rootProject.ext.dependencies["retrofit"]
+    api rootProject.ext.dependencies["retrofit-gson"]
+    api rootProject.ext.dependencies["okhttp-logging"]
+
+    implementation project(path: ':m_base')
 }

@@ -1,0 +1,84 @@
+
+L
+java:S3740I"/Provide the parametrized type for this generic.(ò³¨À8Óî®É¨/
+Q
+java:S3740N"/Provide the parametrized type for this generic.(Í¤òÿÿÿÿÿ8Óî®É¨/
+m
+java:S1192•"VDefine a constant instead of duplicating this literal "connectSPP exception(" 3 times.(®ß›ï
+m
+java:S1192ê"VDefine a constant instead of duplicating this literal "connectHFP exception(" 3 times.(Ï·şÜ
+K
+java:S1066Ù"/Merge this if statement with the enclosing one.(ïùÛ×úÿÿÿÿ
+\
+java:S2184Z"FCast one of the operands of this multiplication operation to a "long".(ÏØÅÈ
+\
+java:S2184^"FCast one of the operands of this multiplication operation to a "long".(œ¯Ò‹
+\
+java:S2184c"FCast one of the operands of this multiplication operation to a "long".(Ô‹ÒÂ
+a
+java:S2184g"FCast one of the operands of this multiplication operation to a "long".(Ë†«öüÿÿÿÿ
+t	java:S135À"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Q
+java:S1141Ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1604Ÿ"(Make this anonymous inner class a lambda(ïÑ¬ 
+a
+java:S2583ê"CChange this condition so that it does not always evaluate to "true"(Ï·şÜ8‚×¾Ê¨/
+a
+java:S2583•"CChange this condition so that it does not always evaluate to "true"(®ß›ï8‚×¾Ê¨/
+a
+java:S2583ğ"CChange this condition so that it does not always evaluate to "true"(Ï·şÜ8‚×¾Ê¨/
+a
+java:S2583›"CChange this condition so that it does not always evaluate to "true"(®ß›ï8‚×¾Ê¨/
+a
+java:S2583í"CChange this condition so that it does not always evaluate to "true"(Ï·şÜ8‚×¾Ê¨/
+a
+java:S2583¡"CChange this condition so that it does not always evaluate to "true"(®ß›ï8ƒ×¾Ê¨/
+E
+java:S1121ò".Extract the assignment out of this expression.(œ§ÿß
+R
+java:S1172¤"6Remove this unused method parameter "bluetoothDevice".(í¤ãåıÿÿÿÿ
+?	java:S108Ì")Either remove or fill this block of code.(Úîø›
+M
+java:S2696ö"6Make the enclosing method "static" or remove this set.(Ğûçâ
+M
+java:S2696†"6Make the enclosing method "static" or remove this set.(Ğûçâ
+h
+java:S2147ë"ECombine this catch with the one at line 488, which has the same body.(ÔÀùÿÿÿÿ8Šï®É¨/
+b
+java:S2147î"ECombine this catch with the one at line 488, which has the same body.(ëèÛ8Šï®É¨/
+h
+java:S2147™"ECombine this catch with the one at line 531, which has the same body.(ÔÀùÿÿÿÿ8ï®É¨/
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(îÖµ¿ùÿÿÿÿ
+A
+java:S1181Ñ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+z
+java:S2142Ñ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‡˜ÚÚøÿÿÿÿ
+u
+java:S2142Æ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+D	java:S108Ù")Either remove or fill this block of code.(ïùÛ×úÿÿÿÿ
+M
+java:S2696ª"6Make the enclosing method "static" or remove this set.(ÛÒğù
+R
+java:S2696®"6Make the enclosing method "static" or remove this set.(¤åÆÌşÿÿÿÿ
+U
+java:S5993å"9Change the visibility of this constructor to "protected".(ïö…´øÿÿÿÿ
+P
+java:S3400ê"9Remove this method and declare a constant for this value.(ª¸•¼
+u
+java:S2142ı"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+a
+java:S2147ÿ"ECombine this catch with the one at line 765, which has the same body.(åşŒóùÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(™äÒâ
+u
+java:S2142¼"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+u
+java:S2142È"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+v
+java:S3252Î"XUse static access with "android.bluetooth.BluetoothProfile" for "PRIORITY_AUTO_CONNECT".(²¬ßá8¡ï®É¨/
+u
+java:S2142Û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R
+java:S2696ˆ"6Make the enclosing method "static" or remove this set.(ş¾¿ÿÿÿÿÿ

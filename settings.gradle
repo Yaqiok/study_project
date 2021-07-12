@@ -6,3 +6,9 @@ include ':m_multi_application'
 include ':m_network'
 //include ':m_javase'
 //include ':m_pboxservice'
+include ':m_image'
+include ':m_jniservice'
+//指定模块的文件目录
+//project('m_jniservice').projectDir = new File(rootDir, 'm_jniservice')
+include ':m_gradle_plugin'
+include ':m_okbluetooth'

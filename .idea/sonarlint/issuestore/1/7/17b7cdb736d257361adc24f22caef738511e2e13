@@ -1,0 +1,10 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ı÷„ê
+]	java:S125"<This block of commented-out lines of code should be removed.(Õ§Â¢ˇˇˇˇˇ8“≥∂Ê£/
+W
+java:S1854":Remove this useless assignment to local variable "client".(òÑ≈æ8Œ÷˙Â£/
+O
+java:S2168""9Remove this dangerous instance of double-checked locking.(ìø¥ò
+H
+java:S1481"+Remove this unused "client" local variable.(òÑ≈æ8◊÷˙Â£/

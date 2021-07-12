@@ -1,0 +1,74 @@
+
+g
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(ıŞ³‹ùÿÿÿÿ
+`
+java:S1192€"IDefine a constant instead of duplicating this literal "Stub!!!" 20 times.(äë×
+t
+java:S1192¸"^Define a constant instead of duplicating this literal "Proxy not attached to service" 9 times.(ÂìŞy
+\	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+\	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(äë×
+a
+java:S1124æ"EReorder the modifiers to comply with the Java Language Specification.(¬ƒÙ±ÿÿÿÿÿ
+=
+java:S1172ÿ"&Remove these unused method parameters.(ÏˆÑÓ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘´«Ç
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘´«Ç
+p
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘´«Ç
+p
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘´«Ç
+<
+java:S1172¨"&Remove these unused method parameters.(ØàğW
+I
+java:S1172¹"-Remove this unused method parameter "device".(¶·şıÿÿÿÿ
+J
+java:S1172±".Remove this unused method parameter "context".(œÕ¸Íşÿÿÿÿ
+I
+java:S1172»"-Remove this unused method parameter "device".(ÖÆ‹Œşÿÿÿÿ
+D
+java:S1172Ã"-Remove this unused method parameter "device".(Èˆ”æ
+D
+java:S1172Í"-Remove this unused method parameter "device".(Ëö¼ğ
+D
+java:S1172ƒ"-Remove this unused method parameter "device".(šëªö
+I
+java:S1172"-Remove this unused method parameter "device".(­ÀÈ‹øÿÿÿÿ
+B
+java:S1172›"&Remove these unused method parameters.( Ğ¨Óûÿÿÿÿ
+B
+java:S1172¥"&Remove these unused method parameters.(’³ê…øÿÿÿÿ
+=
+java:S1172¼"&Remove these unused method parameters.(ñßö¹
+]
+java:S1126ì"AReplace this if-then-else statement by a single return statement.(À’Œşÿÿÿÿ
+W
+java:S1126ñ"AReplace this if-then-else statement by a single return statement.(·êÜ
+X
+java:S1126ø"AReplace this if-then-else statement by a single return statement.(œß™Ö
+=	java:S131ƒ""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
+H
+java:S1068á",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ
+]
+java:S1068æ"ARemove this unused "mBluetoothStateChangeCallback" private field.(¬ƒÙ±ÿÿÿÿÿ
+K
+java:S1144ğ"/Remove this unused private "isDisabled" method.(ÊÔ¼´ıÿÿÿÿ

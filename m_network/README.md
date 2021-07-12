@@ -1,2 +1,2 @@
 
-## use retrofit + okhttp3
+## use retrofit + okhttp3  VS WebSocket
